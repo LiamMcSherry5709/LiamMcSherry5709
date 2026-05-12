@@ -24,11 +24,12 @@ obtain practical skills that will allow me to transition into a role within cybe
 |  | |
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+[Provide tools and break them down into categories. - Remove this afterwards]]
 
+- Oracle VirtualBox
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+[Provide certifications that you have obtained. - Remove this afterwards]]
 
 ## Projects
 

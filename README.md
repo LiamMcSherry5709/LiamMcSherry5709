@@ -31,5 +31,4 @@ obtain practical skills that will allow me to transition into a role within cybe
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+

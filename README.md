@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hello, I'm Liam.
+<a href="https://linkedin.com/in/liam-mcsherry-a002a2293"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**LiamMcSherry5709/LiamMcSherry5709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduction
 
-Here are some ideas to get you started:
+I have recently completed a HND in computing, and am interest in entering the field of cyber security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objective
+
+
+My objective is to expand my knowledge on cyber security and 
+obtain practical skills that will allow me to transition into a role within cyber security.
+
+## Skills
+[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| VM configuration      | |
+|  | |
+|          | |
+|       | | 
+|                  | |
+|  | |
+
+## Tools
+[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
+
+## Certifications
+[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
+## Projects
+- Detection Lab
+- SOC Automation Project

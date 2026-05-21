@@ -16,7 +16,7 @@ obtain practical skills that will allow me to transition into a role within cybe
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| VM configuration      | |
+| VM configuration      | <a href="https://google.com">Virtual box Lab</a> |
 |  | |
 |          | |
 |       | | 

@@ -12,7 +12,7 @@ My objective is to expand my knowledge on cyber security and
 obtain practical skills that will allow me to transition into a role within cyber security.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -29,7 +29,6 @@ obtain practical skills that will allow me to transition into a role within cybe
 - Oracle VirtualBox
 
 ## Certifications
-[Provide certifications that you have obtained.]]
 
 ## Projects
 

@@ -27,6 +27,7 @@ obtain practical skills that will allow me to transition into a role within cybe
 
 
 - Oracle VirtualBox
+- Cisco Packet Tracer
 
 ## Certifications
 

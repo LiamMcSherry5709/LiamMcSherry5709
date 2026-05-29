@@ -17,7 +17,7 @@ obtain practical skills that will allow me to transition into a role within cybe
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | VM configuration      | <a href="https://github.com/LiamMcSherry5709/Virtual-Box-Lab">Virtual box Lab</a> |
-|  | |
+| Educational Network Design |  <a href ="https://github.com/LiamMcSherry5709/educational-network-design/tree/main"> Educational network Design</a> |  
 |          | |
 |       | | 
 |                  | |

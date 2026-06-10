@@ -3,7 +3,7 @@
 
 ## Introduction
 
-I have recently completed a HND in computing, and am interest in entering the field of cyber security.
+I have recently completed a HND in computing, and I am interest in entering the field of cyber security.
 
 ## Objective
 

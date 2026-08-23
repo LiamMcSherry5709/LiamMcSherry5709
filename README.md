@@ -31,6 +31,8 @@ obtain practical skills that will allow me to transition into a role within cybe
 
 ## Certifications
 
+![Static Badge](https://img.shields.io/badge/CompTIA_Network%2B%20-%20red)
+
 ## Projects
 
 | <a href="https://github.com/LiamMcSherry5709/Virtual-Box-Lab">Virtual box Lab</a> |
